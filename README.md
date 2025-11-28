@@ -5,7 +5,7 @@ This repo contains contains a collection of programming projects and exercises c
 I am using it to show my JavaScript understanding as well as a foundational guide for future projects throughout my studies or even career. Note that the code has been rewritten in certain locations for clarification.
 
 
-# The projects are divided the following way:
+--------------------- The projects and exercises are divided the following way: ---------------------
 
 - 1GettingStarted
 - 2DataAndExpressions
